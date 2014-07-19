@@ -3,7 +3,7 @@ require '../helper'
 describe 'xxx', ->
   beforeEach (done) ->
     @kakashi.scripts = [require '../../src/scripts/xxx']
-    @kakashi.users = [{ id: 'bouzuya', room: 'hitoridokusho' }]
+    @kakashi.users = [{ id: 'emanon001', room: 'hitoridokusho' }]
     @kakashi.start().then done, done
 
   afterEach (done) ->
@@ -11,7 +11,7 @@ describe 'xxx', ->
 
   describe 'receive "@hubot XXX"', ->
     it 'send "XXX!"', (done) ->
-      sender = id: 'bouzuya', room: 'hitoridokusho'
+      sender = id: 'emanon001', room: 'hitoridokusho'
       message = '@hubot XXX'
       @kakashi
         .receive sender, message

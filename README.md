@@ -4,12 +4,12 @@ A Hubot script for XXX
 
 ## Installation
 
-    $ npm install git://github.com/bouzuya/hubot-XXX.git
+    $ npm install git://github.com/emanon001/hubot-XXX.git
 
 or
 
     $ # TAG is the package version you need.
-    $ npm install 'git://github.com/bouzuya/hubot-XXX.git#TAG'
+    $ npm install 'git://github.com/emanon001/hubot-XXX.git#TAG'
 
 ## Configuration
 
@@ -18,10 +18,10 @@ or
 
 ## Commands
 
-    bouzuya> hubot help XXX
+    emanon001> hubot help XXX
     hubot> hubot XXX - XXX
 
-    bouzuya> hubot XXX
+    emanon001> hubot XXX
     hubot> XXX!
 
 ## License
@@ -32,5 +32,5 @@ MIT
 
 [![Build Status][travis-status]][travis]
 
-[travis]: https://travis-ci.org/bouzuya/hubot-XXX
-[travis-status]: https://travis-ci.org/bouzuya/hubot-XXX.svg?branch=master
+[travis]: https://travis-ci.org/emanon001/hubot-XXX
+[travis-status]: https://travis-ci.org/emanon001/hubot-XXX.svg?branch=master

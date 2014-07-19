@@ -11,7 +11,7 @@
 #   hubot XXX [<args>] - XXX
 #
 # Author:
-#   bouzuya <m@bouzuya.net>
+#   emanon001 <m@emanon001.net>
 #
 module.exports = (robot) ->
   robot.respond /XXX$/i, (res) ->

@@ -8,21 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bouzuya/hubot-XXX.git"
+    "url": "git://github.com/emanon001/hubot-XXX.git"
   },
   "keywords": [
     "hubot"
   ],
   "author": {
-    "name": "bouzuya",
-    "mail": "m@bouzuya.net",
-    "url": "http://bouzuya.net"
+    "name": "emanon001",
+    "mail": "emanon001@gmail.com",
+    "url": "http://blog.emanon001.net"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bouzuya/hubot-XXX/issues"
+    "url": "https://github.com/emanon001/hubot-XXX/issues"
   },
-  "homepage": "https://github.com/bouzuya/hubot-XXX",
+  "homepage": "https://github.com/emanon001/hubot-XXX",
   "devDependencies": {
     "chai": "^1.9.1",
     "coffee-script": "^1.7.1",
